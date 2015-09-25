@@ -12,11 +12,11 @@ Execution:
 1. For executing the crawler without the keyword, execute it as follows:
 			`python3 <file-name> <url>`
 
-E.g: python3 crawl.py http://en.wikipedia.org/wiki/GitHub
+E.g: `python3 crawl.py http://en.wikipedia.org/wiki/GitHub`
 
 2. For executing the crawler with the keyword, execute it as follows:
 			`python 3 <file-name> <url> <keyword>`
 
-python3 crawl.py http://en.wikipedia.org/wiki/GitHub developer
+`python3 crawl.py http://en.wikipedia.org/wiki/GitHub developer`
 
 ------------------------------------
